@@ -1,0 +1,9 @@
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\bin\Debug\VLC_simulator_Ver1-reciver.exe
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\bin\Debug\VLC_simulator_Ver1-reciver.pdb
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\VLC_simulator_Ver1_reciver.Form1.resources
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\VLC_simulator_Ver1_reciver.Properties.Resources.resources
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\VLC_simulator_Ver1-reciver.exe
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1-reciver\obj\x86\Debug\VLC_simulator_Ver1-reciver.pdb

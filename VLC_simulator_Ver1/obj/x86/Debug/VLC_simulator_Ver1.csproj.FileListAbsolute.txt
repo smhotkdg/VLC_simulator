@@ -1,0 +1,14 @@
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\VLC_simulator_Ver1.exe
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\VLC_simulator_Ver1.pdb
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\MWArray.dll
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\MWArray.xml
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\VLC_simulator_Ver1.Properties.Resources.resources
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\VLC_simulator_Ver1.exe
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\VLC_simulator_Ver1.pdb
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\obj\x86\Debug\VLC_simulator_Ver1.Form1.resources
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\InputSignal.dll
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\VLC_simulator_Ver1.exe.config
+C:\Users\mpcl\Desktop\Project\VLC_simulator_Ver1\VLC_simulator_Ver1\bin\Debug\WebFiguresService.dll
